@@ -1,0 +1,68 @@
+<sweets>
+
+<chocolateBar name="Snickers">
+<weight>100</weight>
+<sugar>35</sugar>
+<shelfTimeDays>65</shelfTimeDays>
+<filling>nuts</filling>
+</chocolateBar>
+
+
+<cookie name="AmericanClassic">
+<weight>40</weight>
+<sugar>15</sugar>
+<shelfTimeDays>40</shelfTimeDays>
+<cacaoAdded>true</cacaoAdded>
+</cookie>
+
+<meringue name="ItalianClassic">
+<weight>25</weight>
+<sugar>18</sugar>
+<shelfTimeDays>15</shelfTimeDays>
+<suppliments>vanile</suppliments>
+</meringue>
+       
+<chocolateBar name="Mars">
+<weight>95</weight>
+<sugar>30</sugar>
+<shelfTimeDays>60</shelfTimeDays>
+<filling>caramel</filling>
+</chocolateBar>
+
+
+<cookie name="SandyRussian">
+<weight>50</weight>
+<sugar>20</sugar>
+<shelfTimeDays>30</shelfTimeDays>
+<cacaoAdded>false</cacaoAdded>
+</cookie>
+
+<meringue name="SwissClassic">
+<weight>20</weight>
+<sugar>15</sugar>
+<shelfTimeDays>15</shelfTimeDays>
+<suppliments>vanile</suppliments>
+</meringue>
+
+
+<chocolateBar name="Bounty">
+<weight>120</weight>
+<sugar>45</sugar>
+<shelfTimeDays>60</shelfTimeDays>
+<filling>coconut</filling>
+</chocolateBar>
+
+<cookie name="Oat cookies">
+<weight>35</weight>
+<sugar>8</sugar>
+<shelfTimeDays>35</shelfTimeDays>
+<cacaoAdded>true</cacaoAdded>
+</cookie>
+
+<meringue name="FrenchClassic">
+<weight>30</weight>
+<sugar>21</sugar>
+<shelfTimeDays>15</shelfTimeDays>
+<suppliments>vanile</suppliments>
+</meringue>
+</sweets>

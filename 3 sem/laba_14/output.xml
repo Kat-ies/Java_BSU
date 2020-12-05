@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toys>
+<toy name="Лего">
+<cost>1</cost>
+<minAge>6</minAge>
+<maxAge>99</maxAge>
+</toy>
+<toy name="Книжка">
+<cost>5</cost>
+<minAge>8</minAge>
+<maxAge>10</maxAge>
+</toy>
+<toy name="Зайчик">
+<cost>6</cost>
+<minAge>1</minAge>
+<maxAge>10</maxAge>
+</toy>
+<toy name="﻿Поезд">
+<cost>4000</cost>
+<minAge>5</minAge>
+<maxAge>15</maxAge>
+</toy>
+</toys>

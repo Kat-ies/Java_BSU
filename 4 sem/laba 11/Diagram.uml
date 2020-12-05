@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="226.0" y="496.0">Bullet</node>
+    <node x="560.5" y="0.0">Entity</node>
+    <node x="20.5" y="1481.0">View.KeyMonitor</node>
+    <node x="536.0" y="572.0">Explosion</node>
+    <node x="281.0" y="1139.0">ProgressLine</node>
+    <node x="0.0" y="1139.0">View</node>
+    <node x="1062.0" y="298.0">Tank</node>
+    <node x="546.0" y="1139.0">Direction</node>
+    <node x="772.0" y="1139.0">Main</node>
+    <node x="832.0" y="606.0">MetalWall</node>
+    <node x="0.0" y="606.0">BrickWall</node>
+    <node x="1410.0" y="0.0">TankClient</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="MetalWall" target="Entity">
+      <point x="0.0" y="-90.0" />
+      <point x="937.0" y="278.0" />
+      <point x="719.4000000000001" y="278.0" />
+      <point x="45.40000000000009" y="124.0" />
+    </edge>
+    <edge source="BrickWall" target="Entity">
+      <point x="0.0" y="-90.0" />
+      <point x="103.0" y="268.0" />
+      <point x="583.2" y="268.0" />
+      <point x="-90.79999999999995" y="124.0" />
+    </edge>
+    <edge source="Bullet" target="Entity">
+      <point x="0.0" y="-200.0" />
+      <point x="371.0" y="278.0" />
+      <point x="628.6" y="278.0" />
+      <point x="-45.39999999999998" y="124.0" />
+    </edge>
+    <edge source="Explosion" target="Entity">
+      <point x="0.0" y="-124.0" />
+      <point x="0.0" y="124.0" />
+    </edge>
+    <edge source="Tank" target="Entity">
+      <point x="0.0" y="-398.0" />
+      <point x="1213.5" y="268.0" />
+      <point x="764.8000000000001" y="268.0" />
+      <point x="90.80000000000007" y="124.0" />
+    </edge>
+    <edge source="View.KeyMonitor" target="View">
+      <point x="0.0" y="-38.0" />
+      <point x="0.0" y="146.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="878.6607142857142" y="377.32142857142867" />
+  <SelectedNodes>
+    <node>Bullet</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>Project Files</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

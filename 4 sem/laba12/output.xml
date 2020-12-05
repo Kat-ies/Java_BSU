@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<sweets>
+	<sweet index="0001" name="Grand toffy">
+		<factory>Roshen</factory>
+		<weight>12</weight>
+	</sweet>
+	<sweet index="0002" name="Happy Cola">
+		<factory>Haribo</factory>
+		<weight>1</weight>
+	</sweet>
+	<sweet index="0003" name="Алёнка">
+		<factory>Коммунарка</factory>
+		<weight>10</weight>
+	</sweet>
+	<sweet index="0004" name="Шоколад">
+		<factory>Спартак</factory>
+		<weight>12</weight>
+	</sweet>
+	<sweet index="7777" name="ап">
+		<factory>ввв</factory>
+		<weight>0</weight>
+	</sweet>
+	<sweet index="6666" name="sdfg">
+		<factory>null</factory>
+		<weight>0</weight>
+	</sweet>
+</sweets>
+

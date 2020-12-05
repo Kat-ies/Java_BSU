@@ -1,0 +1,60 @@
+<html>
+<head>
+    <title>My page</title>
+    <link rel="stylesheet" href="css/main.css">
+    
+</head>
+<body>
+    <div class="nav">
+        <a class="nav-link" href="index.html">Форма</a>
+        <a class="nav-link" href="table.html">Таблица</a>
+        <a class="nav-link" href="picture.html">Не карта</a>
+    </div>
+
+    <div class="student-form">
+        <form>
+            <fieldset>
+            <legend><strong>Форма студента:</strong></legend>
+            <label for="fname">Фамилия: </label>
+            <input name="fname" type="text" value=""> <br>
+            <label for="lname">Имя:</label>
+            <input name="lname" type="text" value=""> <br>
+            Пол: 
+            <input checked="checked" name="sex" type="radio" value="male"> М
+            <input name="sex" type="radio" value="female" > Ж
+            <input name="sex" type="radio" value="female" > Другое
+            <br><br>
+            Дата рождения: <input id="date" type="date"><br><br>
+
+           Фото: <input name="photo" type="file">
+            <br><br>
+            Год поступления:
+            <select name="eyear">
+                <option value="2018">2018</option>
+                <option value="2019">2019</option>
+            </select><br> 
+           Год выпуска:
+            <select name="gyear">
+                <option value="2022">2022</option>
+                <option value="2023">2023</option>
+            </select><br> <br> 
+
+            О себе:<br>
+            <textarea name="about" cols="50" rows="10"></textarea><br> 
+            
+            <input name="checkbox" type="checkbox" value="1" /> Я согласен(-на) передать личные сведения для обработки персональных данных <br> 
+            <button class="btn submit-btn" type="submit" value="Submit">
+                <img height="15px" src="img/ok.png">
+                Отправить
+            </button>
+            <button class="btn cancel-btn">
+                <img height="15px" src="img/cancel.png">
+                Отмена
+            </button>
+            </fieldset>
+        </form>
+    </div>
+      
+    <script src="js/script.js"></script>            
+</body>
+</html>

@@ -1,0 +1,43 @@
+div.image-align {
+  text-align: center;
+}
+
+h1
+{
+	
+	color: purple;
+	font-style: italic;
+	font-family:Garamond;
+    font-size: 650%;
+    text-align: center;
+text-decoration:underline;
+
+}
+
+
+p.pynkt{
+    margin-left:  15%;
+    margin-right: 15%;
+
+	color: #000066;
+     font-size:25;
+	font-family:Monotype Corsiva;
+	text-indent:60px ;
+	font-weight: bolder;
+}
+
+
+  img.transition-opacity {
+
+  margin: 0 auto;
+  padding: 10px;
+  text-align: center;
+  max-width: 500px;
+  font-size: 20px;
+
+  cursor: pointer;
+  transition: 0.5s linear;
+}
+.transition-opacity:hover {
+  opacity: .5;
+}
